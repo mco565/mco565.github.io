@@ -235,3 +235,7 @@ p{
         opacity: 0;
     }
 }
+
+.final-box.latido {
+    animation: latido 1.5s infinite;
+}

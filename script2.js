@@ -50,7 +50,7 @@ btnSi.addEventListener("click", () => {
 
     // Crear cuadro final
     stickerContainer.innerHTML = `
-        <div class="final-box">
+        <div class="final-box latido">
             <img src="img/ft4.jpg">
             <p>Sabía que dirías que sí ❤️ <br> no te puedes resistir a este bombom .</p>
         </div>
